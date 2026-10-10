@@ -12,7 +12,7 @@
 
 <p align="center">I turn <b>Figma designs</b> into <b>fast, polished, interactive interfaces</b> — design eye, engineer hands.</p>
 
-<img align='right' src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="323" height="325">
+<img align='right' src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="306" height="308">
 
 ```javascript
 const aont = {
