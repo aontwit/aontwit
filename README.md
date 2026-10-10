@@ -20,9 +20,9 @@ const Apiwit = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java, C#],
   technologies: {
-        game: [Unity, Cocos, Godot],
-        frontend: [Vue, Nuxt, Next, React, Getsby, Pixijs],
-        backend: [Node, Nest, SpringBoot],
+        game: [Unity, Cocos, Godot, Unreal Engine],
+        frontend: [Vue, Nuxtjs, Nextjs, React, Threejs,Getsby, Pixijs],
+        backend: [Node, Nestjs, SpringBoot],
         mobile: [Flutter, ReactNative],
         databases: [MongoDB, MySql, Firebase],
         devOp: [Docker],
