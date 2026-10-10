@@ -9,13 +9,9 @@
  <h2> Hi there 👋, I'm Aont Apiwit! <img src="https://c.tenor.com/LG5kdQYR2zkAAAAi/anime-love.gif" width="50"></h2>
 <p><em>Frontend Developer at ...<img src="https://c.tenor.com/xggBaDYUIaIAAAAi/dudu-bubu.gif" width="25">
 </br>
-<!-- <p>Unity Developer<img src="https://c.tenor.com/eb_1cgXn1KQAAAAi/cute-please.gif" width="30"> 
-</em></p> -->
 
-<!-- [![Twitter: AxonZtyle](https://img.shields.io/twitter/follow/AxonZtyle?style=social)](https://twitter.com/AxonZtyle) -->
+[![Twitter: 12omariO](https://img.shields.io/twitter/follow/12omariO?style=social)](https://twitter.com/12omariO)
 [![GitHub aontwit](https://img.shields.io/github/followers/aontwit?label=follow&style=social)](https://github.com/aontwit)
-<img src="https://komarev.com/ghpvc/?username=axonapiwit&label=Profile%20views&color=0e75b6&style=flat" alt="axonapiwit" /> 
-<a href="https://wakatime.com/@axonapiwit">
 <img src="https://wakatime.com/badge/user/3f531037-62ba-43cb-9c94-04e9770ac0bc.svg" alt="Total time coded since Feb 22 2022" /></a>
 
 
