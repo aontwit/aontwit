@@ -11,10 +11,6 @@
 </br>
 
 [![Twitter: 12omariO](https://img.shields.io/twitter/follow/12omariO?style=social)](https://twitter.com/12omariO)
-[![GitHub aontwit](https://img.shields.io/github/followers/aontwit?label=follow&style=social)](https://github.com/aontwit)
-<img src="https://wakatime.com/badge/user/3f531037-62ba-43cb-9c94-04e9770ac0bc.svg" alt="Total time coded since Feb 22 2022" /></a>
-
-
 
 ### <img src="https://c.tenor.com/MR3Q248Cv5oAAAAi/waifu.gif" width="50"> A little more about me...  
 <img align='right' src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="300">
