@@ -13,7 +13,7 @@
 [![Twitter: 12omariO](https://img.shields.io/twitter/follow/12omariO?style=social)](https://twitter.com/12omariO)
 
 ### <img src="https://c.tenor.com/MR3Q248Cv5oAAAAi/waifu.gif" width="50"> A little more about me...  
-<img align='right' src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="300">
+<img align='right' src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="300" height="600">
 
 ```javascript
 const Apiwit = {
